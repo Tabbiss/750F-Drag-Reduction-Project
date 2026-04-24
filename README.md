@@ -32,7 +32,8 @@ This project aimed to reduce overall drag of a 750F car by 10%. Simulations were
 
 ## Visualisations
 
-![Pressure Contours](images/pressure.png) <img width="831" height="407" alt="image" src="https://github.com/user-attachments/assets/97abcc78-3616-4cf4-9c10-41ec7db2c437" />
+![Pressure Contours](images/pressure.png) <img width="846" height="407" alt="image" src="https://github.com/user-attachments/assets/b955c174-c118-4310-aea2-d97455541834" />
+
 
 
 ![Velocity Streamlines](images/streamlines.png)
