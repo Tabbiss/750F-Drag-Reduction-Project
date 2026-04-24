@@ -30,9 +30,9 @@ This project aimed to reduce overall drag of a 750F car by 10%. Simulations were
 * Changes were made to reduce drag in the cockpit and rear body areas, totalling a 10% reduction
 * The diffuser was modified to improve efficiency and reduce tyre wake ingestion, improving negative lift characteristics with no drag penalty.
 
-## Visualisations
-
-![Pressure Contours](images/pressure.png) <img width="846" height="407" alt="image" src="https://github.com/user-attachments/assets/b955c174-c118-4310-aea2-d97455541834" />
+## Baseline Analysis
+Baseline 750F race car
+<img width="846" height="407" alt="image" src="https://github.com/user-attachments/assets/b955c174-c118-4310-aea2-d97455541834" />
 
 
 
