@@ -37,7 +37,8 @@ Baseline 750F race car
 Front and rear CPx distribution - Areas in red highlight the main drag areas
 <img width="915" height="354" alt="image" src="https://github.com/user-attachments/assets/26ff2bbd-5fed-462f-a05d-56a4b1a3fd3b" />
 Isosurface - Highlights the wake caused by the roll hoop, rear body, and the effect it has on the diffuser
-<img width="449" height="290" alt="image" src="https://github.com/user-attachments/assets/12550c76-c87a-4be1-91c9-c73ded8b8d35" />
+<img width="420" height="259" alt="image" src="https://github.com/user-attachments/assets/87e25543-1946-4357-833d-19bfa796a003" />
+
 
 
 
