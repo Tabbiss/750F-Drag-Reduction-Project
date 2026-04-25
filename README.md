@@ -16,6 +16,7 @@ This project aimed to reduce overall drag of a 750F car by 10%. Simulations were
 * An open road test area was created with a moving floor section.
 * A mesh convergence study was carried out to detemrine the most efficient mesh refinement.
 * Steady-state simulations were run at a calculated average race speed of 39m/s.
+* New field functions created to display pressure coefficient in the X and Z directions.
 
 ## Key Areas of Investigation
 
@@ -33,6 +34,10 @@ This project aimed to reduce overall drag of a 750F car by 10%. Simulations were
 ## Baseline Analysis
 Baseline 750F race car
 <img width="846" height="407" alt="image" src="https://github.com/user-attachments/assets/b955c174-c118-4310-aea2-d97455541834" />
+Front and rear CPx distribution - Areas in red highlight the main drag areas
+<img width="915" height="354" alt="image" src="https://github.com/user-attachments/assets/26ff2bbd-5fed-462f-a05d-56a4b1a3fd3b" />
+Isosurface - Highlights the wake caused by the roll hoop, rear body, and the effect it has on the diffuser
+<img width="449" height="290" alt="image" src="https://github.com/user-attachments/assets/12550c76-c87a-4be1-91c9-c73ded8b8d35" />
 
 
 
