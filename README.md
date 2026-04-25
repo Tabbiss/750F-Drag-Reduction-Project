@@ -42,8 +42,10 @@ Version 5 - Add slots to the end plates to reduce wake and positive lift on rear
 Baseline 750F race car
 
 <img width="846" height="407" alt="image" src="https://github.com/user-attachments/assets/b955c174-c118-4310-aea2-d97455541834" />
-
-<p>Baseline Quantitative Data</p>
+</div>
+</p>
+<hr>
+Baseline Quantitative Data
 
 <img width="210" height="144" alt="image" src="https://github.com/user-attachments/assets/41e01e74-0626-49e4-a2fa-465fb8193fb9" />
 
