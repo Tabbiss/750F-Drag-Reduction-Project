@@ -66,7 +66,8 @@ Version 1 Quantitative Data
 
 CPx Comparison - An increase in drag on the rear wheels along with a change in CPx distribution on the rear end mean that the drag savings are minimal.
 
-<img width="435" height="256" alt="image" src="https://github.com/user-attachments/assets/a2113368-cfa5-458a-9c4a-f50d0ba2e027" /> <img width="240" height="268" alt="image" src="https://github.com/user-attachments/assets/88b2a5d1-61da-4aad-83a0-c94ac8ed22d6" />
+<img width="435" height="256" alt="image" src="https://github.com/user-attachments/assets/a2113368-cfa5-458a-9c4a-f50d0ba2e027" /> 
+<img width="240" height="268" alt="image" src="https://github.com/user-attachments/assets/88b2a5d1-61da-4aad-83a0-c94ac8ed22d6" />
 
 Pressure Plane Comparison - Highlights the face that only a small amount of airflow passes through the cut-out, showing that they are oversized.
 
