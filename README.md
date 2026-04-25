@@ -45,6 +45,12 @@ Baseline 750F race car
 
 Baseline Quantitative Data
 
+
+
+
+
+
+
 <img width="210" height="144" alt="image" src="https://github.com/user-attachments/assets/41e01e74-0626-49e4-a2fa-465fb8193fb9" />
 
 Front and rear CPx distribution - Areas in red highlight the main drag areas.
