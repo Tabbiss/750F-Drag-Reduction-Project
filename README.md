@@ -1,5 +1,5 @@
 # Overall Drag Reduction of a 750F Race Car
-<img width="374" height="334" alt="image" src="https://github.com/user-attachments/assets/0bf2c6e0-dd8a-4ee8-93e9-37199c58f846" />
+<img width="374" height="334" alt="image" align="center"  src="https://github.com/user-attachments/assets/0bf2c6e0-dd8a-4ee8-93e9-37199c58f846" />
 
 ## Overview
 
