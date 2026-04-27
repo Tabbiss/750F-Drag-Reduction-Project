@@ -52,7 +52,7 @@ To fix this, the 3D-CAD Editor in Star-CCM was used to add a radius to the leadi
 
 Roll Hoop - The provided roll hoop was not an accurate representation of the roll hoop on the real car. To rectify this, the roll hoop was completely remade in Catia V5 to produce a part which is representative of the actual car.
 <img width="214" height="187" alt="image" src="https://github.com/user-attachments/assets/6873fab1-d2ef-404b-86ea-98b01fbf26e3" />
-
+<br clear="all">
 
 ## Baseline 750F Car
 Baseline 750F race car
