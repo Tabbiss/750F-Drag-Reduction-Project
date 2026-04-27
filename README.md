@@ -147,9 +147,11 @@ Version 5 Modifications - Slots added to rear wing end plates and updated diffus
 
 <img width="710" height="194" alt="image" src="https://github.com/user-attachments/assets/06a38611-b236-44d2-8cbd-bf11e5e832d7" />
 
-Version 5 Quantitative Data
+Version 5 Quantitative Data and comparison with Baseline
 
 <img width="316" height="104" alt="image" src="https://github.com/user-attachments/assets/eb9f8d7e-42b0-4494-8a46-8c0911771493" />
+<img width="335" height="127" alt="image" src="https://github.com/user-attachments/assets/4a114afa-ecd5-4cd0-8ef0-cde975b99d85" />
+
 
 Version 5 Eng Plate Wake Comparison - The addition of the slots allows higher pressure airflow to pass through the end plate, reducing the size of the wake in the low-pressure area.
 
