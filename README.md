@@ -38,6 +38,17 @@ Version 5 - Add slots to the end plates to reduce wake and positive lift on rear
 * The final car did expereince a loss in negative lift when compared to the baseline, particularly due to the modification seen in Version 3.
 * The diffuser was modified to improve efficiency and reduce tyre wake ingestion, improving negative lift characteristics with no drag penalty.
 
+## Model Preperation
+Initial geometry import - Showing the errors present including pierced face, free edges and non-manifold edges. This was fixed by importing each part seperately and using the boolean unite tool to unite them back together.
+<img width="451" height="248" alt="image" src="https://github.com/user-attachments/assets/8cf6030a-2d88-4839-870f-7da0eca5bc0c" />
+
+Rear Cockpit - The CAD model that was provided for this project does not feature any internal flows, this issue is mostly relevant to the rear cockpit structure as on the real car it acts as an intake for the engine bay area. Without the internal flow, the intake for the rear cockpit must be filled to create a closed surface which in turn, create a bluff body which will cause inaccuracies in drag values for the car.
+To fix this, the 3D-CAD Editor in Star-CCM was used to add a radius to the leading edge of the cockpit, allowing for airflow to more easily remain attached as it flows over the top of the rear cockpit.
+<img width="229" height="146" alt="image" src="https://github.com/user-attachments/assets/9218d262-d2ce-40fa-92b5-146c2c046c67" />
+
+Roll Hoop - The provided roll hoop was not an accurate representation of the roll hoop on the real car. To rectify this, the roll hoop was completely remade in Catia V5 to produce a part which is representative of the actual car.
+<img width="214" height="187" alt="image" src="https://github.com/user-attachments/assets/6873fab1-d2ef-404b-86ea-98b01fbf26e3" />
+
 ## Baseline 750F Car
 Baseline 750F race car
 
