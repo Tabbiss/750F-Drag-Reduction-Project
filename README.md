@@ -40,6 +40,7 @@ Version 5 - Add slots to the end plates to reduce wake and positive lift on rear
 
 ## Model Preperation
 Initial geometry import - Showing the errors present including pierced face, free edges and non-manifold edges. This was fixed by importing each part seperately and using the boolean unite tool to unite them back together.
+<hr>
 <img width="451" height="248" alt="image" src="https://github.com/user-attachments/assets/8cf6030a-2d88-4839-870f-7da0eca5bc0c" />
 
 Rear Cockpit - The CAD model that was provided for this project does not feature any internal flows, this issue is mostly relevant to the rear cockpit structure as on the real car it acts as an intake for the engine bay area. Without the internal flow, the intake for the rear cockpit must be filled to create a closed surface which in turn, create a bluff body which will cause inaccuracies in drag values for the car.
@@ -53,8 +54,6 @@ Roll Hoop - The provided roll hoop was not an accurate representation of the rol
 Baseline 750F race car
 
 <img width="846" height="407" alt="image" src="https://github.com/user-attachments/assets/b955c174-c118-4310-aea2-d97455541834" />
-</div>
-</p>
 <hr>
 Baseline Quantitative Data
 
