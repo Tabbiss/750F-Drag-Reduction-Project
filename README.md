@@ -51,7 +51,6 @@ To fix this, the 3D-CAD Editor in Star-CCM was used to add a radius to the leadi
 <img width="229" height="146" alt="image" src="https://github.com/user-attachments/assets/9218d262-d2ce-40fa-92b5-146c2c046c67" />
 
 Roll Hoop - The provided roll hoop was not an accurate representation of the roll hoop on the real car. To rectify this, the roll hoop was completely remade in Catia V5 to produce a part which is representative of the actual car.
-
 <img align="left" width="214" height="187" alt="image" src="https://github.com/user-attachments/assets/6873fab1-d2ef-404b-86ea-98b01fbf26e3" />
 
 <hr>
